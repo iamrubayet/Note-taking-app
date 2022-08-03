@@ -1,5 +1,4 @@
-# Note-taking-app
-
+# Flask Web App Tutorial
 
 ## Setup & Installtion
 
